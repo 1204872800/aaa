@@ -1,0 +1,33 @@
+{
+  "sdutens": [{
+    "id": 1,
+    "name": "小张",
+    "age": 21,
+    "xingbei": "0",
+    "xihao": "打篮球"
+  }, {
+    "name": "qwe",
+    "age": "123",
+    "xingbei": "1",
+    "xihao": "123123",
+    "id": 2
+  }, {
+    "name": "123",
+    "age": "123",
+    "xingbei": "0",
+    "xihao": "123",
+    "id": 5
+  }, {
+    "name": "1",
+    "age": "1",
+    "xingbei": "0",
+    "xihao": "1111",
+    "id": 8
+  }, {
+    "name": "123",
+    "age": "123",
+    "xingbei": "0",
+    "xihao": "13",
+    "id": 9
+  }]
+}
